@@ -1,0 +1,35 @@
+
+body{
+    font-family: Tahoma;
+    font-size: 18px;
+    color: rebeccapurple;
+    background-color:mediumpurple;
+    /*line-height: 150%;*/
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+    /* border: 2px solid blue; */
+}
+
+h1{
+    text-align: center;
+    font-size: 32px;
+}
+
+.link{
+    width: 50%;
+    margin: auto;
+    /* border: 2px solid orangered; */
+}
+
+footer{
+    width: 70%;
+    height: 160px;
+    margin: auto;
+    background-color:rgb(141, 56, 202);
+    padding-top: 4%;
+    text-align: center;
+    color: aliceblue;
+}
